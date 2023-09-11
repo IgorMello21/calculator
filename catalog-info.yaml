@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: calculator
+  annotations:
+    github.com/project-slug: IgorMello21/calculator
+spec:
+  type: other
+  lifecycle: unknown
